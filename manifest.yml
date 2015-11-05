@@ -5,7 +5,7 @@ declared-services:
 applications:
 - services:
   - dialog-service
-  name: dialog-tool
+  name: MichelinManDialog
   command: node app.js
   path: .
   memory: 512M
